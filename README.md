@@ -17,10 +17,10 @@ Based in [Una Kravets](https://github.com/una): [How Open Sourcing my personal G
 - [ ] 🚀 [Building Unsupervided Learning Models with TensorFlow - Pluralsight](https://www.pluralsight.com/courses/tensorflow-building-unsupervised-learning-models)
 - [ ] 🚀 [Sentiment Analysis with Recurrent Neural Networks in TensorFlow - Pluralsight](https://www.pluralsight.com/courses/tensorflow-sentiment-analysis-recurrent-neural-networks)
 - [ ] 🚀 [Build an App for the Google Assistant with Firebase and DialogFlow - Codelab](https://codelabs.developers.google.com/codelabs/assistant-codelab/index.html?index=..%2F..%2Findex#0)
-- [ ] 🚀 [Design an engaging Assistant App](https://codelabs.developers.google.com/codelabs/conversation-design/index.html?index=..%2F..%2Findex#0)
-- [ ] 🚀 [Build a conversational app for the Google Assistant](https://codelabs.developers.google.com/codelabs/assistant-dialogflow-nodejs/index.html?index=..%2F..%2Findex#0)
-- [ ] 🚀 [Your first Assistant App](https://codelabs.developers.google.com/codelabs/your-first-kids-action-on-google/index.html?index=..%2F..%2Findex#0)
-- [ ] 🚀 [Your first app for Assistant with Webhooks](https://codelabs.developers.google.com/codelabs/your-first-action-on-google-with-webhook/index.html?index=..%2F..%2Findex#0)
+- [ ] 🚀 [Design an engaging Assistant App - Codelab](https://codelabs.developers.google.com/codelabs/conversation-design/index.html?index=..%2F..%2Findex#0)
+- [ ] 🚀 [Build a conversational app for the Google Assistant - Codelab](https://codelabs.developers.google.com/codelabs/assistant-dialogflow-nodejs/index.html?index=..%2F..%2Findex#0)
+- [ ] 🚀 [Your first Assistant App - Codelab](https://codelabs.developers.google.com/codelabs/your-first-kids-action-on-google/index.html?index=..%2F..%2Findex#0)
+- [ ] 🚀 [Your first app for Assistant with Webhooks - Codelab](https://codelabs.developers.google.com/codelabs/your-first-action-on-google-with-webhook/index.html?index=..%2F..%2Findex#0)
 
 
 ### About Vue.js
