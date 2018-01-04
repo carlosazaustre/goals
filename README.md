@@ -1,17 +1,34 @@
-# Planning and Goals
+# Planning and Personal Goals
 
 Based in [Una Kravets](https://github.com/una): [How Open Sourcing my personal Goals made me really productive](https://una.im/personal-goals-guide/) and [Cristina Fernández](https://github.com/cristinafsanz/personal-goals)
 
-## Big Objectives in 2018
+## Overarching Goals for 2018: Be Organized
 - 📚 Learn Machine Learning / AI
 - 📚 Improve Vue.js
 - 📚 Learn Go
 - 🏃 Running
-- ✈️ Traveling
+- ✈️ Travel
 
-### About Machine Learning / AI
-- [x] 🚀 [Intro to Machine Learning - Platzi](https://platzi.com/cursos/ia/)
+## January 1-7, 2018
+### This Week's Goal: Starting to study Machine Learning
+### Things I'll Do This Week
+- [ ] 🚀 [Intro to Machine Learning - Platzi](https://platzi.com/cursos/ia/)
 - [ ] 🚀 [Neural Networks and Backpropagation  - Platzi](https://platzi.com/cursos/redes-neuronales/)
+- [ ] 🏃 Running 3 times (15Km total)
+
+### Things I'll Do This Month: January 2018
+- [ ] 🚀 [Budget Planner app with Vue - Matthias Hager](https://matthiashager.com/complete-vuejs-application-tutorial)
+- [ ] 👀 [Vue styleguide](https://github.com/vue-styleguidist/vue-styleguidist)
+- [ ] 🏃 Running 60Km (3 times/Week)
+- [ ] ✈️ Travel to Valencia
+- [ ] ✈️ Travel to Menorca
+
+### Backlog: Side Projects
+- [ ] 💻 OKRggeddon
+
+### Backlog: Code Things I Want to Do/Watch/Play With
+
+#### About Machine Learning / AI
 - [ ] 🚀 [Understanding the Foundations of TensorFlow - Pluralsight](https://www.pluralsight.com/courses/tensorflow-understanding-foundations)
 - [ ] 🚀 [Building Classification Models with TensorFlow - Pluralsight](https://www.pluralsight.com/courses/tensorflow-building-classification-models)
 - [ ] 🚀 [Building Unsupervided Learning Models with TensorFlow - Pluralsight](https://www.pluralsight.com/courses/tensorflow-building-unsupervised-learning-models)
@@ -23,31 +40,28 @@ Based in [Una Kravets](https://github.com/una): [How Open Sourcing my personal G
 - [ ] 🚀 [Your first app for Assistant with Webhooks - Codelab](https://codelabs.developers.google.com/codelabs/your-first-action-on-google-with-webhook/index.html?index=..%2F..%2Findex#0)
 
 
-### About Vue.js
-- [ ] 🚀 [Budget Planner app with Vue - Matthias Hager](https://matthiashager.com/complete-vuejs-application-tutorial)
+#### About Vue.js
 - [ ] 👀 [Workshop Sarah Drasner](https://github.com/sdras/intro-to-vue)
-- [ ] 👀 [Vue styleguide](https://github.com/vue-styleguidist/vue-styleguidist)
 - [ ] 👀 [Rafa García's Vue Workshop](https://github.com/rafagarcia/vueling)
 - [ ] 🚀 [Rafael Casuso's Vue Workshop](https://www.youtube.com/watch?v=SkR_3BGmqRc), [Code](https://github.com/VueJSMadrid/vue-workshop) y [Slides](https://www.slideshare.net/RafaelCasusoRomate/intro-to-vuejs-workshop).
 - [ ] 👀 [Scaffold Vue applications with Poi](https://alligator.io/vuejs/vue-scaffold-poi/)
+- [ ] 🚀 [Vue.js Master Class - VueSchool](https://vueschool.io/courses/the-vuejs-master-class)
 
-### About Go
+#### About Go
 - [ ] 🚀 [Basic Go programming - Platzi](https://platzi.com/cursos/go-basico/)
 - [ ] 🚀 [Advanced Go programming - Platzi](https://platzi.com/cursos/go-avanzado/)
 
-### MISC
+#### MISC
 - [ ] 🚀 [JavaScript Fundamentals - Platzi](https://platzi.com/cursos/fundamentos-javascript/)
 - [ ] 🚀 [Design Thinking Course - Platzi](https://platzi.com/think)
 - [ ] 🚀 [Algorithms in C - Platzi](https://platzi.com/cursos/algoritmos/)
 - [ ] 👀 [JavaScript Best Practices](https://github.com/excellalabs/js-best-practices-workshopper)
 
-## Books
+### Books to Read
 - [ ] 📖 Trilogía: El recuerdo del pasado de la Tierra - Liu Cixin
     - [ ] 📖 El problema de los tres cuerpos
     - [ ] 📖 El bosque oscuro
     - [ ] 📖 El fin de la muerte
 
-## Travels
-- [ ] ✈️ Valencia
-- [ ] ✈️ Menorca
+### Travels
 - [ ] ✈️ Singapore??
