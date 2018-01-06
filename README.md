@@ -46,16 +46,30 @@ Based in [Una Kravets](https://github.com/una): [How Open Sourcing my personal G
 - [ ] 🚀 [Rafael Casuso's Vue Workshop](https://www.youtube.com/watch?v=SkR_3BGmqRc), [Code](https://github.com/VueJSMadrid/vue-workshop) y [Slides](https://www.slideshare.net/RafaelCasusoRomate/intro-to-vuejs-workshop).
 - [ ] 👀 [Scaffold Vue applications with Poi](https://alligator.io/vuejs/vue-scaffold-poi/)
 - [ ] 🚀 [Vue.js Master Class - VueSchool](https://vueschool.io/courses/the-vuejs-master-class)
+- [ ] 🚀[Create a News app with Vue and Nuxt - Egghead.io](https://egghead.io/courses/create-a-news-app-with-vue-js-and-nuxt)
+- [ ] 🚀[Vue State management with Vuex and TypeScript - Egghead.io](https://egghead.io/courses/vue-js-state-management-with-vuex-and-typescript)
+- [ ] 🚀[Use TypeScript to develop Vue web applications - Egghead.io](https://egghead.io/courses/use-typescript-to-develop-vue-js-web-applications)
+- [ ] 🚀[Advanced Fine grained control of Vue Components - Egghead.io](https://egghead.io/courses/advanced-fine-grained-control-of-vue-js-components)
+- [ ] 🚀[Build a Server Rendered Vue app with Nuxt and Vuex - Egghead.io](https://egghead.io/courses/build-a-server-rendered-vue-js-app-with-nuxt-and-vuex)
 
 #### About Go
 - [ ] 🚀 [Basic Go programming - Platzi](https://platzi.com/cursos/go-basico/)
 - [ ] 🚀 [Advanced Go programming - Platzi](https://platzi.com/cursos/go-avanzado/)
 
-#### MISC
+#### MISC (JavaScript, Tools, Frameworks, and so on)
 - [ ] 🚀 [JavaScript Fundamentals - Platzi](https://platzi.com/cursos/fundamentos-javascript/)
 - [ ] 🚀 [Design Thinking Course - Platzi](https://platzi.com/think)
 - [ ] 🚀 [Algorithms in C - Platzi](https://platzi.com/cursos/algoritmos/)
 - [ ] 👀 [JavaScript Best Practices](https://github.com/excellalabs/js-best-practices-workshopper)
+- [ ] 🚀 [Webpack Course - Platzi](https://platzi.com/cursos/webpack/)
+- [ ] 🚀 [Web Animations Course - Platzi](https://platzi.com/cursos/animaciones-web/)
+- [ ] 🚀 [GraphQL Course - Platzi](https://platzi.com/cursos/graphql/)
+- [ ] 🚀 [Redux 2017 Course - Platzi](https://platzi.com/cursos/redux/)
+- [ ] 🚀 [React 2017 Course - Platzi](https://platzi.com/cursos/react/)
+- [ ] 🚀 [State Monad in JavaScript - Egghead.io](https://egghead.io/courses/state-monad-in-javascript)
+- [ ] 🚀 [Get Started using WebAssembly WASM - Egghead.io](https://egghead.io/courses/get-started-using-webassembly-wasm)
+- [ ] 🚀 [Natural Language Processing with JavaScript - Egghead.io](https://egghead.io/courses/natural-language-processing-in-javascript-with-natural)
+- [ ] 🚀 [Advanced Logging with JavaScript Console - Egghead.io](https://egghead.io/courses/js-console-for-power-users)
 
 ### Books to Read
 - [ ] 📖 Trilogía: El recuerdo del pasado de la Tierra - Liu Cixin
@@ -64,4 +78,4 @@ Based in [Una Kravets](https://github.com/una): [How Open Sourcing my personal G
     - [ ] 📖 El fin de la muerte
 
 ### Travels
-- [ ] ✈️ Singapore??
+- [ ] ✈️ Singapore 🇸🇬??
