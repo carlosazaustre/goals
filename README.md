@@ -69,6 +69,8 @@ Based in [Una Kravets](https://github.com/una): [How Open Sourcing my personal G
 - [ ] [Get Started using WebAssembly WASM - Egghead.io](https://egghead.io/courses/get-started-using-webassembly-wasm)
 - [ ] [Natural Language Processing with JavaScript - Egghead.io](https://egghead.io/courses/natural-language-processing-in-javascript-with-natural)
 - [ ] [Advanced Logging with JavaScript Console - Egghead.io](https://egghead.io/courses/js-console-for-power-users)
+- [ ] [Frontend Web Developer - Udacity Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)
+- [ ] [Google Developers Certification: Mobile Web Specialist](https://developers.google.com/training/certification/mobile-web-specialist/)
 
 ### 📖 Books to Read
 - [ ] Trilogía: El recuerdo del pasado de la Tierra - Liu Cixin
