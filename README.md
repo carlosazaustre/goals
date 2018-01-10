@@ -9,11 +9,13 @@ Based in [Una Kravets](https://github.com/una): [How Open Sourcing my personal G
 - 🏃 Running
 - ✈️ Travel
 
-## January 1-7, 2018
-### This Week's Goal: Starting to study Machine Learning
+## January 8-14, 2018
+### This Week's Goal: Study Algebra and Python basics
 ### Things I'll Do This Week
-- [ ] 🚀 [Intro to Machine Learning - Platzi](https://platzi.com/cursos/ia/)
-- [ ] 🚀 [Neural Networks and Backpropagation  - Platzi](https://platzi.com/cursos/redes-neuronales/)
+- [ ] 🚀 [Budget Planner app with Vue - Matthias Hager](https://matthiashager.com/complete-vuejs-application-tutorial) In progress...
+- [ ] 🚀 [Introduction to Python - Udacity ](https://eu.udacity.com/course/introduction-to-python--ud1110)
+- [ ] 🚀 [Linear Algebra Refresher Course with Python - Udacity](https://eu.udacity.com/course/linear-algebra-refresher-course--ud953)
+- [ ] 📖 El problema de los tres cuerpos - start
 - [ ] 🏃 Running 3 times (15Km total)
 
 ### Things I'll Do This Month: January 2018
