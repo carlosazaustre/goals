@@ -9,13 +9,13 @@ Based in [Una Kravets](https://github.com/una): [How Open Sourcing my personal G
 - 🏃 Running
 - ✈️ Travel
 
-## January 8-14, 2018
-### This Week's Goal: Study Algebra and Python basics
+## January 15-21, 2018
+### This Week's Goal: Work meeting in Valencia
 ### Things I'll Do This Week
 - [ ] 🚀 [Budget Planner app with Vue - Matthias Hager](https://matthiashager.com/complete-vuejs-application-tutorial) In progress...
-- [ ] 🚀 [Introduction to Python - Udacity ](https://eu.udacity.com/course/introduction-to-python--ud1110)
-- [ ] 🚀 [Linear Algebra Refresher Course with Python - Udacity](https://eu.udacity.com/course/linear-algebra-refresher-course--ud953)
-- [ ] 📖 El problema de los tres cuerpos - start
+- [ ] 🚀 [Project Management Fundamentals - Platzi](https://platzi.com/cursos/pmi/)
+- [ ] ✈️ Travel to Valencia
+- [ ] 📖 El problema de los tres cuerpos - continue reading...
 - [ ] 🏃 Running 3 times (15Km total)
 
 ### Things I'll Do This Month: January 2018
@@ -73,6 +73,8 @@ Based in [Una Kravets](https://github.com/una): [How Open Sourcing my personal G
 - [ ] [Advanced Logging with JavaScript Console - Egghead.io](https://egghead.io/courses/js-console-for-power-users)
 - [ ] [Frontend Web Developer - Udacity Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)
 - [ ] [Google Developers Certification: Mobile Web Specialist](https://developers.google.com/training/certification/mobile-web-specialist/)
+- [ ] [Project Management Fundamentals - Platzi](https://platzi.com/cursos/pmi/)
+- [ ] [PMP Certification Course - Platzi](https://platzi.com/cursos/certificacion-pmp/)
 
 ### 📖 Books to Read
 - [ ] Trilogía: El recuerdo del pasado de la Tierra - Liu Cixin
