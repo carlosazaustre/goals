@@ -9,13 +9,12 @@ Based in [Una Kravets](https://github.com/una): [How Open Sourcing my personal G
 - 🏃 Running
 - ✈️ Travel
 
-## January 15-21, 2018
-### This Week's Goal: Work meeting in Valencia
+## January 22-28, 2018
+### This Week's Goal: Assistant
 ### Things I'll Do This Week
-- [ ] 🚀 [Budget Planner app with Vue - Matthias Hager](https://matthiashager.com/complete-vuejs-application-tutorial) In progress...
-- [ ] 🚀 [Project Management Fundamentals - Platzi](https://platzi.com/cursos/pmi/)
-- [ ] ✈️ Travel to Valencia
-- [ ] 📖 El problema de los tres cuerpos - continue reading...
+- [ ] [Your first Assistant App - Codelab](https://codelabs.developers.google.com/codelabs/your-first-kids-action-on-google/index.html?index=..%2F..%2Findex#0)
+- [ ] ✈️ Travel to Menorca
+- [ ] 📖 El problema de los tres cuerpos ~ continue reading...
 - [ ] 🏃 Running 3 times (15Km total)
 
 ### Things I'll Do This Month: January 2018
@@ -38,7 +37,6 @@ Based in [Una Kravets](https://github.com/una): [How Open Sourcing my personal G
 - [ ] [Build an App for the Google Assistant with Firebase and DialogFlow - Codelab](https://codelabs.developers.google.com/codelabs/assistant-codelab/index.html?index=..%2F..%2Findex#0)
 - [ ] [Design an engaging Assistant App - Codelab](https://codelabs.developers.google.com/codelabs/conversation-design/index.html?index=..%2F..%2Findex#0)
 - [ ] [Build a conversational app for the Google Assistant - Codelab](https://codelabs.developers.google.com/codelabs/assistant-dialogflow-nodejs/index.html?index=..%2F..%2Findex#0)
-- [ ] [Your first Assistant App - Codelab](https://codelabs.developers.google.com/codelabs/your-first-kids-action-on-google/index.html?index=..%2F..%2Findex#0)
 - [ ] [Your first app for Assistant with Webhooks - Codelab](https://codelabs.developers.google.com/codelabs/your-first-action-on-google-with-webhook/index.html?index=..%2F..%2Findex#0)
 - [ ] [Intro to Machine Learning - Udacity](https://eu.udacity.com/course/intro-to-machine-learning--ud120)
 - [ ] [Introduction to Python - Udacity ](https://eu.udacity.com/course/introduction-to-python--ud1110)
@@ -49,7 +47,7 @@ Based in [Una Kravets](https://github.com/una): [How Open Sourcing my personal G
 #### 🚀 About Vue.js
 - [ ] [Workshop Sarah Drasner](https://github.com/sdras/intro-to-vue)
 - [ ] [Rafa García's Vue Workshop](https://github.com/rafagarcia/vueling)
-- [ ] [Rafael Casuso's Vue Workshop](https://www.youtube.com/watch?v=SkR_3BGmqRc), [Code](https://github.com/VueJSMadrid/vue-workshop) y [Slides](https://www.slideshare.net/RafaelCasusoRomate/intro-to-vuejs-workshop).
+- [ ] [Rafael Casuso's Vue Workshop](https://www.youtube.com/watch?v=SkR_3BGmqRc), [Code](https://github.com/VueJSMadrid/vue-workshop) y [Slides](https://www.slideshare.net/RafaelCasusoRomate/intro-to-vuejs-workshop)
 - [ ] [Scaffold Vue applications with Poi](https://alligator.io/vuejs/vue-scaffold-poi/)
 - [ ] [Vue.js Master Class - VueSchool](https://vueschool.io/courses/the-vuejs-master-class)
 - [ ] [Create a News app with Vue and Nuxt - Egghead.io](https://egghead.io/courses/create-a-news-app-with-vue-js-and-nuxt)
@@ -73,7 +71,6 @@ Based in [Una Kravets](https://github.com/una): [How Open Sourcing my personal G
 - [ ] [Advanced Logging with JavaScript Console - Egghead.io](https://egghead.io/courses/js-console-for-power-users)
 - [ ] [Frontend Web Developer - Udacity Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)
 - [ ] [Google Developers Certification: Mobile Web Specialist](https://developers.google.com/training/certification/mobile-web-specialist/)
-- [ ] [Project Management Fundamentals - Platzi](https://platzi.com/cursos/pmi/)
 - [ ] [PMP Certification Course - Platzi](https://platzi.com/cursos/certificacion-pmp/)
 
 ### 📖 Books to Read
