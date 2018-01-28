@@ -1,4 +1,4 @@
-# This Weeks Accomplishments: January 22-28, 2018
+# This Weeks Accomplishments: January 29 - February 4, 2018
 
 ## Things I Did from the List:
 - [x] Thing
